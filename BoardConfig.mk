@@ -17,6 +17,4 @@
 # inherit from common sprout repo
 -include device/google/sprout-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := sprout,sprout4
-
 TARGET_RECOVERY_FSTAB := device/google/sprout4/rootdir/root/fstab.sprout
